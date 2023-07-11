@@ -9,7 +9,7 @@ app.get('/posts', (req, res, next) => {
 });
 
 app.post('/posts', (req, res, next) => {
-    res.status(200).send("You sent a post with body:", req.body);
+    res.status(200).send(req.body);
 })
 
 
