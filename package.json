@@ -1,0 +1,12 @@
+{
+  "name": "post-practice-backend",
+  "version": "1.0.0",
+  "description": "In this repo, we are going to work in groups of 3 to build our own server with a database!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "2303-FTB-MT-WEB",
+  "license": "ISC"
+}
